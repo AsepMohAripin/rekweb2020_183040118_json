@@ -1,0 +1,11 @@
+{
+    "nama" : "Asep Moh Aripin",
+    "umur" : 20,
+    "nrp" : "183040118",
+    "lulus" : true,
+    "hobby" : [
+        "Catur",
+        "Game"
+    ]
+
+}
